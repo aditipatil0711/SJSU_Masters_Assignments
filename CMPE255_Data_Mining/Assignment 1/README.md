@@ -25,6 +25,9 @@ Showcase the power of combining chatgpt plugin and visual studio code
 Best submission will be judged by students in a poll organized by TA.
 
 Answer:
+
+Videos are available in the videos folder. Due to size constraints, the quality of videos is degraded. Preferable to view these videos on the links mentioned below:
+
   1) Writing functions and Codes:
      
      https://youtu.be/vMuBHpVyL70?si=jEfU2q80L3hIqyWi
