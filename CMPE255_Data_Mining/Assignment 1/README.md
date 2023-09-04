@@ -12,4 +12,20 @@ Answer:
   2) Link to the ChatGPT Transcript:
     https://chat.openai.com/share/d60bd03b-2306-4e19-9b1e-20546b9f4f35
 
+# Problem Statement 2:
+
+1) Use gpt-engineer to generate a project for visual studio code for your favorite application 
+2) Use screencast to demonstrate various usecases of this extension
+    1) Writing functions and code
+    2) Refactoring code
+    3) Writing unit tests
+    4) Writing entire app
+submit your screencast and code generated in github repo
+Showcase the power of combining chatgpt plugin and visual studio code 
+Best submission will be judged by students in a poll organized by TA.
+
+Answer:
+  1) Folder Assignment 1 has all details for the problem statement
+
+
 
