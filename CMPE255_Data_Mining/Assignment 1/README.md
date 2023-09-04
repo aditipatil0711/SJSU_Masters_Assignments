@@ -26,7 +26,7 @@ Best submission will be judged by students in a poll organized by TA.
 
 Answer:
 
-Videos are available in the videos folder. Due to size constraints, the quality of videos is degraded. Preferable to view these videos on the links mentioned below:
+Videos are available in the "Videos" folder in the same repo. Due to size constraints, the quality of videos is degraded. Preferable to view these videos on the links mentioned below:
 
   1) Writing functions and Codes:
      
