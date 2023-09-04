@@ -7,9 +7,9 @@ submit the medium article
 the best article will be judged by students in a poll organized by TAs
 
 Answer: 
-    1) Link to the medium Article:
+  1) Link to the medium Article:
   https://addypatil.medium.com/unleashing-the-power-of-generative-ai-forecasting-spotify-revenue-with-gpt-4-760b901e44f6
-    2) Link to the ChatGPT Transcript:
+  2) Link to the ChatGPT Transcript:
     https://chat.openai.com/share/d60bd03b-2306-4e19-9b1e-20546b9f4f35
 
 
