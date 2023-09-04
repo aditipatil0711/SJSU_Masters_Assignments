@@ -25,7 +25,23 @@ Showcase the power of combining chatgpt plugin and visual studio code
 Best submission will be judged by students in a poll organized by TA.
 
 Answer:
-  1) Folder Assignment 1 has all details for the problem statement
+  1) Writing functions and Codes:
+     https://youtu.be/zYq7jMVDOIo?si=CZAFL6gjXsIpasA_
+     Description: 
+     
+  2) Refactoring a code:
+     https://youtu.be/zYq7jMVDOIo?si=CZAFL6gjXsIpasA_
+     Description: 
+     
+  3) Writing unit test:
+     https://youtu.be/Qb3Sml_dTTE?si=B9NMSQbvcgrApEhh
+     Description:
+     
+  4) Writing entire app:
+     https://youtu.be/vMuBHpVyL70?si=ayDJw2XuzXLt7J8h
+     Description:
+
+
 
 
 
