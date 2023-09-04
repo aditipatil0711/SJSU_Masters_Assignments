@@ -30,7 +30,7 @@ Videos are available in the "Videos" folder in the same repo. Due to size constr
 
   1) Writing functions and Codes:
      
-     https://youtu.be/vMuBHpVyL70?si=jEfU2q80L3hIqyWi
+     https://youtu.be/K7S7FoZY7uI?si=UqGLb_N3hu9erFuj
      
      Description:
      In this video, I have tried to explain how we can use Github Copilot to write code and functions so tasks for developers can be easy so can avoid rewriting boilerplate codes. All a user has to do is write their requirements in the code and Voila! Your code for the functionality is created! This demo is implemented to create a basic calculator code.
