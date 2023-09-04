@@ -15,11 +15,11 @@ Answer:
 # Problem Statement 2:
 
 1) Use gpt-engineer to generate a project for visual studio code for your favorite application 
-2) Use screencast to demonstrate various usecases of this extension
+2) Use screencast to demonstrate various use cases of this extension
     1) Writing functions and code
     2) Refactoring code
     3) Writing unit tests
-    4) Writing entire app
+    4) Writing the entire app
 submit your screencast and code generated in github repo
 Showcase the power of combining chatgpt plugin and visual studio code 
 Best submission will be judged by students in a poll organized by TA.
@@ -38,14 +38,14 @@ Answer:
      https://youtu.be/zYq7jMVDOIo?si=CZAFL6gjXsIpasA_
      
      Description:
-     In this video, I have tried to explain how we can use Github Copilot to refactor existing codes. Github Copilot Chat makes it easier to refactor code. But being in waitlist, I have tried refactoring with just the Copilot plugin. This demo is implemented on a Calculator application written in React.
+     In this video, I have tried to explain how we can use Github Copilot to refactor existing codes. Github Copilot Chat makes it easier to refactor code. But being in the waitlist, I have tried refactoring with just the Copilot plugin. This demo is implemented on a Calculator application written in React.
      
   3) Writing unit test:
 
      https://youtu.be/Qb3Sml_dTTE?si=B9NMSQbvcgrApEhh
      
      Description:
-      In this video, I have added a test case to the same code basic calculator app in video 1. with Github copilot, you explain the requirements in the test case and copilot helps you generate test cases easily. 
+      In this video, I have added a test case to the same code basic calculator app in video 1. With Github copilot, you explain the requirements in the test case and copilot helps you generate test cases easily. 
 
      
   4) Writing entire app:
@@ -53,11 +53,11 @@ Answer:
      https://youtu.be/vMuBHpVyL70?si=ayDJw2XuzXLt7J8h
      
      Description:
-     In this video, I have used gpt-engineer to generate an app with its directory structure. The user can write in the main_prompt file about the functionality of the code to be suitable to run. The developer now is set to work on the application according to the end goals of the project using that application.
+     In this video, I have used gpt-engineer to generate an app with its directory structure. The user can write in the main_prompt file about the code's functionality to be suitable to run. The developer is now set to work on the application according to the end goals of the project using that application.
 
 
-     Note:
-     Github Copilot, ChatGPT and gpt-engineer (for the Generative AI platforms used in this assignments) are helpful to generate code in initial forms. It does not mean that the application/ code generated is ready to use. A developer will always have to change variable names, or parameters or details to make the app seamlessly working.  
+Note:
+     Github Copilot, ChatGPT, and gpt-engineer (for the Generative AI platforms used in this assignment) are helpful in generating code in initial forms. It does not mean that the application/ code generated is ready to use as is. A developer will always have to change variable names, parameters, or details to make the app seamlessly work and reach the end goal.
      
 
 
