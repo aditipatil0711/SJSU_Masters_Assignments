@@ -36,7 +36,7 @@ Tasks:
 
   7) Time Series Forecasting - Univariate without Exogenous Variables
 
-  8)Time Series Forecasting - Univariate with Exogenous Variables  
+  8) Time Series Forecasting - Univariate with Exogenous Variables  
 
 https://pycaret.gitbook.io/docs/get-started/tutorials
 
@@ -74,5 +74,5 @@ Links in repository for each task +explanations:
 
   7) Time Series Forecasting - Univariate without Exogenous Variables
 
-  8)Time Series Forecasting - Univariate with Exogenous Variables  
+  8) Time Series Forecasting - Univariate with Exogenous Variables  
 
