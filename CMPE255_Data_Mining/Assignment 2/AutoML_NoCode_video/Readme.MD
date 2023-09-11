@@ -7,7 +7,7 @@ Eg:  https://jadbio.com/extract-knowledge-from-your-data-with-jadbio-automl-free
 Links to an external site.
 https://www.youtube.com/channel/UCuvLxmd6r7uQJqzfv1sYHwg/videos
 
-Answer:
+**Answer:**
  Due to size constraints, the quality of videos is degraded. Preferable to view these videos on the link. 
 
 Link to Youtube video covering two demos: JAdBio and Obviously.ai:
@@ -21,7 +21,7 @@ What is AutoML?:
 
 AutoML, or Automated Machine Learning, streamlines the machine learning process by automating tasks like data preprocessing, model selection, and hyperparameter tuning, making model development faster and more accessible to both experts and novices.
 
-Description of video:
+**Description of video:**
 
 In this video, I cover 2 AutoML platforms: JadBio and Obviously.ai
 
