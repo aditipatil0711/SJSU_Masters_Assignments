@@ -60,19 +60,35 @@ Answer:
 
 Links in repository for each task +explanations:
 
-  1) Binary Classification - Level
+  1) Binary Classification - 
 
-  2) Multiclass Classification - Level
+https://github.com/aditipatil0711/SJSU_Masters_Assignments/tree/bfe6a8a0b98cbce3abdab0c29a26cfabd60b7d37/CMPE255_Data_Mining/Assignment%202/Pycaret/BinaryClassification
 
-  3) Regression - Level
+  2) Multiclass Classification -
 
-  4) Clustering - Level
+https://github.com/aditipatil0711/SJSU_Masters_Assignments/tree/bfe6a8a0b98cbce3abdab0c29a26cfabd60b7d37/CMPE255_Data_Mining/Assignment%202/Pycaret/MulticlassClassification
 
-  5) Anomaly Detection - Level
+  3) Regression - 
 
-  6) Association Rules Mining - Level
+https://github.com/aditipatil0711/SJSU_Masters_Assignments/tree/bfe6a8a0b98cbce3abdab0c29a26cfabd60b7d37/CMPE255_Data_Mining/Assignment%202/Pycaret/Regression
 
-  7) Time Series Forecasting - Univariate without Exogenous Variables
+  4) Clustering - 
 
-  8) Time Series Forecasting - Univariate with Exogenous Variables  
+https://github.com/aditipatil0711/SJSU_Masters_Assignments/tree/bfe6a8a0b98cbce3abdab0c29a26cfabd60b7d37/CMPE255_Data_Mining/Assignment%202/Pycaret/Clustering
+
+  5) Anomaly Detection - 
+
+https://github.com/aditipatil0711/SJSU_Masters_Assignments/tree/main/CMPE255_Data_Mining/Assignment%202/Pycaret/Anomaly_Detection
+
+  6) Association Rules Mining - 
+
+https://github.com/aditipatil0711/SJSU_Masters_Assignments/tree/bfe6a8a0b98cbce3abdab0c29a26cfabd60b7d37/CMPE255_Data_Mining/Assignment%202/Pycaret/Association_Rules_Mining
+
+  7) Time Series Forecasting - Univariate without Exogenous Variables:
+
+https://github.com/aditipatil0711/SJSU_Masters_Assignments/tree/bfe6a8a0b98cbce3abdab0c29a26cfabd60b7d37/CMPE255_Data_Mining/Assignment%202/Pycaret/Timeseries_Forecasting
+
+  8) Time Series Forecasting - Univariate with Exogenous Variables 
+
+https://github.com/aditipatil0711/SJSU_Masters_Assignments/tree/bfe6a8a0b98cbce3abdab0c29a26cfabd60b7d37/CMPE255_Data_Mining/Assignment%202/Pycaret/Timeseries_Forecasting
 
