@@ -12,4 +12,4 @@ Binary classification is a type of supervised learning where the aim is to predi
 
 Pima Indians Diabetes Database: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
-Predict the onset of diabetes based on diagnostic measures
+Predict the onset of diabetes based on diagnostic measures 
