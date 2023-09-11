@@ -22,21 +22,21 @@ Train the models on gpu (use use_gpu=true method in setup function) if it suppor
 
 Tasks:
 
-a)Binary Classification - Level
+  a)Binary Classification - Level
 
-b)Multiclass Classification - Level
+  b)Multiclass Classification - Level
 
-c) Regression - Level
+  c) Regression - Level
 
-d) Clustering - Level
+  d) Clustering - Level
 
-e) Anomaly Detection - Level
+  e) Anomaly Detection - Level
 
-f) Association Rules Mining - Level
+  f) Association Rules Mining - Level
 
-g) Time Series Forecasting - Univariate without Exogenous Variables
+  g) Time Series Forecasting - Univariate without Exogenous Variables
 
-h)Time Series Forecasting - Univariate with Exogenous Variables  
+  h)Time Series Forecasting - Univariate with Exogenous Variables  
 
 https://pycaret.gitbook.io/docs/get-started/tutorials
 
