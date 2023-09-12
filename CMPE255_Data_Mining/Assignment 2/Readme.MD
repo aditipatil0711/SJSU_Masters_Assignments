@@ -7,7 +7,7 @@ Links to an external site.
 https://www.youtube.com/channel/UCuvLxmd6r7uQJqzfv1sYHwg/videos
 
 Answer:
-1) Link to Youtube video covering two demos: JAdBio and Obviously.ai:
+1) Link to Youtube video covering two demos: JAdBio and Obviously.ai: https://www.youtube.com/channel/UCuvLxmd6r7uQJqzfv1sYHwg/videos
 2) Directory with description in repo:
 
 # Problem Statement 2:
