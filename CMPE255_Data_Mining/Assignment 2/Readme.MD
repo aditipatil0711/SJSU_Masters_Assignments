@@ -4,7 +4,7 @@ Get jadbio.com freeaccount,  demonstrate one (or more if you are interested)  en
 Eg:  https://jadbio.com/extract-knowledge-from-your-data-with-jadbio-automl-free/
 
 Links to an external site.
-https://www.youtube.com/channel/UCuvLxmd6r7uQJqzfv1sYHwg/videos
+https://youtu.be/Ksv83t5-UXc?si=EfsGva3dKfRI3fTF
 
 Answer:
 1) Link to Youtube video covering two demos: JAdBio and Obviously.ai: https://www.youtube.com/channel/UCuvLxmd6r7uQJqzfv1sYHwg/videos
