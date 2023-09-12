@@ -13,7 +13,7 @@ https://www.youtube.com/channel/UCuvLxmd6r7uQJqzfv1sYHwg/videos
  Due to size constraints, the quality of videos is degraded. Preferable to view these videos on the link. 
 
 Link to Youtube video covering two demos: JAdBio and Obviously.ai:
-https://youtu.be/13FsLyZM4J4?si=2L_mZ2MBdgDORa9j
+https://youtu.be/Ksv83t5-UXc?si=EfsGva3dKfRI3fTF
 
 References to the AutoML portals:
 1) Jadbio: https://jadbio.com/
