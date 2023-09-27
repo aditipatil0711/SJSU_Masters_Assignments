@@ -23,7 +23,7 @@ https://github.com/aditipatil0711/SJSU_Masters_Assignments/assets/67693038/10861
 
 # Deliverables:
 
-1) A document outlining the architecture of the application (before and after):[Flask Blog Application Architecture.docx](https://github.com/aditipatil0711/SJSU_Masters_Assignments/files/12733797/Flask.Blog.Application.Architecture.docx)
+1) A document outlining the architecture of the application (before and after):[Flask Blog Application Architecture.pdf](https://github.com/aditipatil0711/SJSU_Masters_Assignments/files/12734074/Flask.Blog.Application.Architecture.pdf)
 
 2) Kubernetes yamls, github repo link to your codebase:
 
