@@ -28,8 +28,13 @@ https://github.com/aditipatil0711/SJSU_Masters_Assignments/assets/67693038/10861
 [Flask Blog Application Architecture.docx](https://github.com/aditipatil0711/SJSU_Masters_Assignments/files/12733797/Flask.Blog.Application.Architecture.docx)
 
 2) Kubernetes yamls, github repo link to your codebase:
+
     a) [UI yml file ](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/4b0c95b06473e801843d10acdaf30e1dba239bd8/CMPE272_Enterprise_Software_Platforms/Assignment_2/flask_blog_ui/ui.yml)
+
     b) [Create yml file](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/4b0c95b06473e801843d10acdaf30e1dba239bd8/CMPE272_Enterprise_Software_Platforms/Assignment_2/flask_blog_create/create.yml)
+
     c) [Read yml file](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/4b0c95b06473e801843d10acdaf30e1dba239bd8/CMPE272_Enterprise_Software_Platforms/Assignment_2/flask_blog_read/read.yml)
+
     d) [Update yml file](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/4b0c95b06473e801843d10acdaf30e1dba239bd8/CMPE272_Enterprise_Software_Platforms/Assignment_2/flask_blog_update/update.yml)
+
     e) [Delete yml file](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/4b0c95b06473e801843d10acdaf30e1dba239bd8/CMPE272_Enterprise_Software_Platforms/Assignment_2/flask_blog_delete/delete.yml)
