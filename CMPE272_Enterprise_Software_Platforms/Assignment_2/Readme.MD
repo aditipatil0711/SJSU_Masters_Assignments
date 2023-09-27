@@ -21,3 +21,8 @@ In the demo below, you can see the functionality of the application when the dep
 
 https://github.com/aditipatil0711/SJSU_Masters_Assignments/assets/67693038/108619ce-9107-4e2b-86ca-5f518f4e4024
 
+# Deliverables:
+
+1) A document outlining the architecture of your application (before and after):
+
+[Flask Blog Application Architecture.docx](https://github.com/aditipatil0711/SJSU_Masters_Assignments/files/12733797/Flask.Blog.Application.Architecture.docx)
