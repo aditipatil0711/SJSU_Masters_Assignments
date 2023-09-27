@@ -13,7 +13,7 @@ kubectl apply -f <respective.yml>
 kubectl port-forward pod/<respective_pod_name> <port> 
 ```
 
-Afther all the microservices are port forwarded, you can run the Flask UI and use the application.
+After all the microservices are port forwarded, you can run the Flask UI and use the application.
 
 # Demo
 https://github.com/aditipatil0711/SJSU_Masters_Assignments/assets/67693038/108619ce-9107-4e2b-86ca-5f518f4e4024
