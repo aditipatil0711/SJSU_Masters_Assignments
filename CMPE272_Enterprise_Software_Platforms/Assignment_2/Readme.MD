@@ -37,4 +37,4 @@ https://github.com/aditipatil0711/SJSU_Masters_Assignments/assets/67693038/10861
 
     e) [Delete yml file](https://github.com/aditipatil0711/SJSU_Masters_Assignhttps://github.com/aditipatil0711/SJSU_Masters_Assignments/tree/379566b6163b2cd2d52f30377ac7ab30046ab723/CMPE272_Enterprise_Software_Platforms/Assignment_2/mediaments/blob/4b0c95b06473e801843d10acdaf30e1dba239bd8/CMPE272_Enterprise_Software_Platforms/Assignment_2/flask_blog_delete/delete.yml)
 
-3) Screenshot of your k8s running state (pods/services), screenshots of your application: [Media Folder]()
+3) Screenshot of your k8s running state (pods/services), screenshots of your application: [Media Folder](https://github.com/aditipatil0711/SJSU_Masters_Assignments/tree/37881f44ecf194c67b1bea63b315bee0e20a2ae8/CMPE272_Enterprise_Software_Platforms/Assignment_2/media)
