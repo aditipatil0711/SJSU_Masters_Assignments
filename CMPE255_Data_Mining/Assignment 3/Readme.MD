@@ -24,7 +24,7 @@ If you are using chatgpt gpt4 data analysis plugin make sure you elicit very det
 
 # Solution:
 In every folder, is an attached and enclosed :
-1. .ipynb file of the Google Colab with all the MAnual and AutoML steps for the methodology
+1. .ipynb file of the Google Colab with all the Manual and AutoML steps for the methodology
 * CRISP-DM : [Link](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/79770cb32fa80e1f8c86149866970e76b377c688/CMPE255_Data_Mining/Assignment%203/CRISP-DM/CRISP_DM_with_AutoML.ipynb)
 * KDD : [Link](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/79770cb32fa80e1f8c86149866970e76b377c688/CMPE255_Data_Mining/Assignment%203/KDD/KDD_with_AutoML.ipynb)
 * SEMMA : [Link](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/79770cb32fa80e1f8c86149866970e76b377c688/CMPE255_Data_Mining/Assignment%203/SEMMA/SEMMA_with_AutoML.ipynb)
