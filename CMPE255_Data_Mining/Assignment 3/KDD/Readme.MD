@@ -1,4 +1,6 @@
-# KDD
+# Solution
+
+# *KDD*
 
 Enclosed in this folder are attachments of the KDD Methodology :
 1. .ipynb file of the Google Colab with all the MAnual and AutoML steps for the methodology
