@@ -8,10 +8,10 @@ Enclosed in this folder are attachments of the CRISP-DM Methodology :
 
 use chatgpt but follow the full template - i provided hints for crisp-dm. do the same for semma - use SAS software trial version if possible and learn and demo the report.
 
-https://sceweb.uhcl.edu/boetticher/ml_datamining/sas-semma.pdfLinks to an external site.
+https://sceweb.uhcl.edu/boetticher/ml_datamining/sas-semma.pdf 
 
-https://support.sas.com/resources/papers/proceedings13/069-2013.pdfLinks to an external site.
+https://support.sas.com/resources/papers/proceedings13/069-2013.pdf 
 
-https://www.researchgate.net/publication/363091098_Predicting_Student_Performance_Using_Data_Mining_Approach_A_Case_Study_in_OmanLinks to an external site.
+https://www.researchgate.net/publication/363091098_Predicting_Student_Performance_Using_Data_Mining_Approach_A_Case_Study_in_Oman 
 
-https://www.geeksforgeeks.org/semma-model/Links to an external site.
+https://www.geeksforgeeks.org/semma-model/ 
