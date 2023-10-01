@@ -1,10 +1,10 @@
 # Problem Statement
 
-This assignment is to do principled step by step phase by phase data science with the three methodologies for each methodology (CRISP-DM SEMMA AND KDD )
+1. This assignment is to do principled step by step phase by phase data science with the three methodologies for each methodology (CRISP-DM SEMMA AND KDD )
 
 You need to demonstrate a project which uses all stages of the the methodology - you can use detailed help from chatgpt/gpt4 for making sure each and every stage and all the subtasks are fully complete and in depth and in detailed. You still need to verify the chatgpt code it generates manually, turn the project into proper colab. You need to write a medium article for each of the project. 
 
-For each methodology - seperate subdirectory clearly marking the project
+* For each methodology - seperate subdirectory clearly marking the project
 
 In case you are interested please use https://github.com/KillianLucas/open-interpreterLinks to an external site. and gpt4 backend and your own docker with all python packages to overcome limits of gpt4. You can also take help from https://github.com/geekan/MetaGPTLinks to an external site. to plan for the projects and execute it using gpt4 backend.
 
@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=IqfYYxmbTuMLinks to an external site.
 
 https://www.youtube.com/watch?v=YEfJbVdpsMkLinks to an external site.
 
-Minimize Video
+*Minimize Video*
 
 https://www.ilovephd.com/chatgpt-write-scientific-research-paper/Links to an external site.
 
@@ -46,11 +46,7 @@ https://drasmajabeen.com/chatgpt-for-scientific-research-paper-writing/Links to 
 
  
 
- 
-
- 
-
-Hints:
+*Hints:*
 
  
 
@@ -86,13 +82,13 @@ https://pdf.sciencedirectassets.com/280203/1-s2.0-S1877050921X0004X/1-s2.0-S1877
 
  
 
-KDD 
+*KDD*
 
 use chatgpt but follow the full template - i provided hints for crisp-dm. do the same for kdd
 
  
 
-Semma
+*Semma*
 
 use chatgpt but follow the full template - i provided hints for crisp-dm. do the same for semma - use SAS software trial version if possible and learn and demo the report.
 
