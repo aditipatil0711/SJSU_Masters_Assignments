@@ -20,7 +20,21 @@ If you are using chatgpt gpt4 data analysis plugin make sure you elicit very det
 
 4. Write a research paper in latex format and pdf format and submit in arxiv
 
-Hint for prompts : 
+
+
+# Solution:
+ In every folder, is an attached and enclosed :
+1. .ipynb file of the Google Colab with all the MAnual and AutoML steps for the methodology
+2) Link to the medium article
+3) PDF copy of the research paper draft. (Since I faced issues in publishing papers to arxiv, I have attached my draft pdf copies)
+
+ 
+
+ 
+
+*Hints:*
+
+ Hint for prompts : 
 
 https://www.makeuseof.com/use-chatgpt-research-essays/
 
@@ -37,20 +51,6 @@ https://www.ilovephd.com/chatgpt-write-scientific-research-paper/Links to an ext
 
 https://drasmajabeen.com/chatgpt-for-scientific-research-paper-writing/Links to an external site.
 
-
-# Solution:
- In every folder, is an attached and enclosed :
-1. .ipynb file of the Google Colab with all the MAnual and AutoML steps for the methodology
-2) Link to the medium article
-3) PDF copy of the research paper draft. (Since I faced issues in publishing papers to arxiv, I have attached my draft pdf copies)
-
- 
-
- 
-
-*Hints:*
-
- 
 
 Crisp-DM: 
 
