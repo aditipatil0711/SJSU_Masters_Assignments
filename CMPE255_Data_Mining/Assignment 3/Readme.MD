@@ -25,7 +25,15 @@ If you are using chatgpt gpt4 data analysis plugin make sure you elicit very det
 # Solution:
 In every folder, is an attached and enclosed :
 1. .ipynb file of the Google Colab with all the MAnual and AutoML steps for the methodology
+* CRISP-DM : [Link](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/79770cb32fa80e1f8c86149866970e76b377c688/CMPE255_Data_Mining/Assignment%203/CRISP-DM/CRISP_DM_with_AutoML.ipynb)
+* KDD : [Link](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/79770cb32fa80e1f8c86149866970e76b377c688/CMPE255_Data_Mining/Assignment%203/KDD/KDD_with_AutoML.ipynb)
+* SEMMA : [Link](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/79770cb32fa80e1f8c86149866970e76b377c688/CMPE255_Data_Mining/Assignment%203/SEMMA/SEMMA_with_AutoML.ipynb)
+
 2. Link to the medium article
+* CRISP-DM : [Link](https://addy07.medium.com/harnessing-manual-and-automated-methodologies-for-intent-recognition-a-comprehensive-analysis-of-7232b59ea99b)
+* KDD : [Link](https://addy07.medium.com/rhythms-of-discovery-a-comparative-dance-through-music-descriptions-using-manual-and-automated-7295cad2a9f3)
+* SEMMA : [Link](https://addy07.medium.com/deciphering-cinema-secrets-analyzing-movie-data-with-semma-and-automl-cc4346b372cd)
+
 3. PDF copy of the research paper draft. (Since I faced issues in publishing papers to arxiv, I have attached my draft pdf copies)
 
  
