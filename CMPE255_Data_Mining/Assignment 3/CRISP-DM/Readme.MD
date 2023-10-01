@@ -1,4 +1,5 @@
-# CRISP-DM
+# Solution:
+# *CRISP-DM*
 
 Enclosed in this folder are attachments of the CRISP-DM Methodology :
 1. .ipynb file of the Google Colab with all the MAnual and AutoML steps for the methodology
