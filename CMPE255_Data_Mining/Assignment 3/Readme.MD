@@ -29,28 +29,3 @@ In every folder, is an attached and enclosed :
 3. PDF copy of the research paper draft. (Since I faced issues in publishing papers to arxiv, I have attached my draft pdf copies)
 
  
-
- # *Hints:*
-
- Hint for prompts : 
-
-https://www.makeuseof.com/use-chatgpt-research-essays/
-
-https://jenni.ai/?utm_medium=cpc&utm_campaign=20078619985&utm_source=google&gclid=Cj0KCQjwx5qoBhDyARIsAPbMagD4UnCScY_58mO5eyuJKFZqqprgEPZTmiOwoe4O4AAF0sglwK0FHn8aAtMNEALw_wcB
-
-https://www.youtube.com/watch?v=IqfYYxmbTuM
-
-https://www.youtube.com/watch?v=YEfJbVdpsMk=
-
-*Minimize Video*
-
-https://www.ilovephd.com/chatgpt-write-scientific-research-paper/
-https://drasmajabeen.com/chatgpt-for-scientific-research-paper-writing/
-
-
-
-
- 
-
- 
-
