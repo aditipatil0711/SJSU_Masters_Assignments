@@ -32,7 +32,7 @@ If you are using chatgpt gpt4 data analysis plugin make sure you elicit very det
 
  
 
-*Hints:*
+ # *Hints:*
 
  Hint for prompts : 
 
