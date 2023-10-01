@@ -1,4 +1,6 @@
-# SEMMA
+# Solution
+
+# *SEMMA*
 
 Enclosed in this folder are attachments of the SEMMA Methodology :
 1. .ipynb file of the Google Colab with all the MAnual and AutoML steps for the methodology
