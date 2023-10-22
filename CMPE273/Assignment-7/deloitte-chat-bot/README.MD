@@ -8,6 +8,7 @@ Techstack:
 Note: To execute the app,
   1. Create a virtual environment 
   2. run -> pip install -r requirements.txt
+  3. create a .env file to with your OpenAI API 
 
 To run the app:
 * uvicorn run:app --reload
