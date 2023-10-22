@@ -32,7 +32,7 @@ def chat_completion(messages: list) -> list[str]:
 
 def format_messages(chat_history: list[list]) -> list[dict]:
     formated_messages = [
-        {"role": "system", "content": "You are a helpful assistant who only answers tax related queries."}
+        {"role": "system", "content": "You are a helpful assistant who only answers tax related queries.Do  NOT answer questions of any other context. \n How are tax brackets structured, and how do they impact the amount of taxes owed? \n What are common tax deductions, and how can they lower taxable income? \n What is the difference between a tax deduction and a tax credit? \n How does one's filing status (e.g., Single, Married Filing Jointly, Head of Household) affect tax liability? \n What are the tax obligations for self-employed individuals, and how do they differ from employed individuals? \n How are capital gains and dividends taxed? \n How do contributions to retirement accounts like 401(k)s and IRAs affect tax liability? \n What are the thresholds for estate and gift taxes, and how do they work?"}
     ]
     for i in range(len(chat_history)):
         ch = chat_history[i]
@@ -51,7 +51,7 @@ def format_messages(chat_history: list[list]) -> list[dict]:
             )
     return formated_messages
 
-chat_history = [['hi', None] ]
+chat_history = [['hi', None]]
 
 print(format_messages(chat_history))
 
