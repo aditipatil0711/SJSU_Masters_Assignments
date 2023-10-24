@@ -11,4 +11,4 @@ _______
 Link: https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 * The .ipynb notebook explains both the tools and executes AutoEDA with Pandas profiler and Sweetviz.
-* The outputs of the tools have been exported to 
+* The outputs of the tools have been exported to the html files attached 
