@@ -6,7 +6,7 @@ _______
 
 ## Solution
 
-**Dataset Used:** Zomato Bangalore Restaraunts 
+**Dataset Used:** Zomato Bangalore Restaurants 
 
 Link: https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
 
