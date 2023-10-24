@@ -1,4 +1,4 @@
-### Assignment 2 - Auto EDA with your favorite tool
+# Assignment 2 - Auto EDA with your favorite tool
 
 Pick your favorite kaggle data set and favorite auto eda tool (like pandas profiler or sweetviz etc.,.).Do auto eda using one of the tools i discussed in the class which is your favorite. make it very appealing for viewers
 
