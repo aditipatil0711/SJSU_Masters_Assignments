@@ -1,9 +1,6 @@
 # Assignment5: Data Preprocessing and Data Preparation Assignment
 
 
-<a target="_blank" href="https://addy07.medium.com/mastering-datas-arcana-unveiling-the-impact-of-auto-eda-and-automl-on-data-preparation-and-cb5670c4a818">
-
-
 
 # EDA, Data Preparation, and AutoML on Kaggle Datasets
 
@@ -11,7 +8,7 @@ This repository contains detailed exploratory data analysis (EDA), data preparat
 
 ## Solution Overview
 
-The goal of this project was to conduct EDA, data preparation, and processing on popular Kaggle datasets that required cleaning. The datasets chosen represent a wide array of data types including tabular, time series, spatio-temporal, image, audio, video, and graph data. The project ensured a mix of imbalanced and balanced datasets and involved detailed preprocessing, clustering, anomaly detection, data imputation, feature processing, and feature selection. AutoML platforms were utilized to build various machine learning models, including ensemble models.
+The goal of this project was to conduct EDA, data preparation, and processing on popular Kaggle datasets that required cleaning. The datasets chosen represent a wide array of data types including tabular, time series, spatio-temporal, image, audio, video, and graph data. The project ensured a mix of imbalanced and balanced datasets and involved detailed preprocessing, clustering, anomaly detection, data imputation, feature processing, and feature selection. AutoML platforms were utilized to build various machine learning models, including ensemble models. After all the processing, the  Solution also involves the AutoML with Autosklearn and AutoEDA with Sweetviz
 
 ## Datasets
 
@@ -48,7 +45,7 @@ For a comprehensive understanding of the process, challenges, and insights gaine
 Each folder in the repository corresponds to a dataset type and contains the following:
 
 - Jupyter notebook with EDA, preprocessing, and modeling steps
-- Additional resources like images, models, and CSV files used or generated during the project
+- Additional resources like links to datasets used or generated during the project
 
 ## How to Use
 
