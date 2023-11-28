@@ -9,5 +9,5 @@ Turn the content of the paper/topic into a nice article (PLEASE REMEMBER - DO NO
 
 Solution: 
 * Link to  Article:  [Medium Article](https://addy07.medium.com/navigating-the-financial-world-with-ai-a-new-frontier-in-sentiment-analysis-757e34c29e8d)
-* Link to PPT: 
-* Link to Video:
+* Link to PPT: [ Slideshare PPT](https://addy07.medium.com/navigating-the-financial-world-with-ai-a-new-frontier-in-sentiment-analysis-757e34c29e8d)
+* Link to Video: [Video](https://addy07.medium.com/navigating-the-financial-world-with-ai-a-new-frontier-in-sentiment-analysis-757e34c29e8d)
