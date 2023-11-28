@@ -8,6 +8,6 @@ This is individual assignment. Topic must be relevant to cmpe 255 topics in syll
 Turn the content of the paper/topic into a nice article (PLEASE REMEMBER - DO NOT SUBMIT EXISTING MEDIUM ARTICLE - YOU HAVE TO WRITE MEDIUM ARTICLE FROM SCRATCH AND PUBLISH IT  - not cut and paste test - paraphrase and rewrite summarize)  for publishing in medium.com (add more survey papers content together as well) - focus on gist rather than math depth - focus on architecture, ablation studies, metrics etc.,. rather than going into the weeds deeply. as many pictures and visualizations and your own two cents on papers.  
 
 Solution: 
-Link to Medium Article:  Link(https://addy07.medium.com/navigating-the-financial-world-with-ai-a-new-frontier-in-sentiment-analysis-757e34c29e8d)
+Link to  Article:  [Medium Article] (https://addy07.medium.com/navigating-the-financial-world-with-ai-a-new-frontier-in-sentiment-analysis-757e34c29e8d)
 Link to PPT: 
 Link to Video:
