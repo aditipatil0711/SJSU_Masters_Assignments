@@ -39,12 +39,12 @@ The assignment is divided into several parts, each focusing on a different clust
 
 #### f) Clustering of Time Series Data Using Pretrained Models
 - **Description**: Time series data clustering using pretrained models.
-- **Dataset**: [Cryptojacking Attack Timeseries Dataset] (https://www.kaggle.com/datasets/keshanijayasinghe/cryptojacking-attack-timeseries-dataset)
+- **Dataset**: [Cryptojacking Attack Timeseries Dataset](https://www.kaggle.com/datasets/keshanijayasinghe/cryptojacking-attack-timeseries-dataset)
 - **Notebook**: [Link](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/main/CMPE255_Data_Mining/Assignment6/Time_Series_Data_Clustering_with_Pretrained_Models.ipynb)
 
 #### g) Clustering of Documents using State-of-the-Art Embeddings
 - **Description**: Document clustering using the latest LLM embeddings.
-- **Dataset**: [Internet news data with readers engagement] (https://www.kaggle.com/datasets/szymonjanowski/internet-articles-data-with-users-engagement)
+- **Dataset**: [Internet news data with readers engagement](https://www.kaggle.com/datasets/szymonjanowski/internet-articles-data-with-users-engagement)
 - **Notebook**: [Link](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/main/CMPE255_Data_Mining/Assignment6/Document_Clustering.ipynb)
 
 #### h) Clustering with Images using ImageBind LLM Embeddings
