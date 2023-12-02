@@ -15,47 +15,47 @@ The assignment is divided into several parts, each focusing on a different clust
 #### a) K-Means Clustering from Scratch
 - **Description**: Implementation of K-Means clustering algorithm from scratch.
 - **Dataset**: [https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/main/CMPE255_Data_Mining/Assignment6/K_Means_Clustering.ipynb]
-- **Notebook**: (Link)[https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/main/CMPE255_Data_Mining/Assignment6/K_Means_Clustering.ipynb]
+- **Notebook**: [Link](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/main/CMPE255_Data_Mining/Assignment6/K_Means_Clustering.ipynb)
 
 #### b) Hierarchical Clustering
 - **Description**: Application of hierarchical clustering.
 - **Dataset**: [Placeholder for dataset link]
-- **Notebook**: (Link)[https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/main/CMPE255_Data_Mining/Assignment6/Hierarchical__Clustering.ipynb]
+- **Notebook**: [Link](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/main/CMPE255_Data_Mining/Assignment6/Hierarchical__Clustering.ipynb)
 
 #### c) Gaussian Mixture Models Clustering
 - **Description**: Implementation of clustering using Gaussian mixture models.
 - **Dataset**: [Placeholder for dataset link]
-- **Notebook**: [https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/main/CMPE255_Data_Mining/Assignment6/Gaussian_Mixture_Models.ipynb]
+- **Notebook**: [Link](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/main/CMPE255_Data_Mining/Assignment6/Gaussian_Mixture_Models.ipynb)
 
 #### d) DB Scan Clustering Using PyCaret Library
 - **Description**: Clustering using DB Scan algorithm and PyCaret library.
 - **Dataset**: [Placeholder for dataset link]
-- **Notebook**: [Placeholder for Colab notebook link]
+- **Notebook**: [Link](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/main/CMPE255_Data_Mining/Assignment6/DB_Scan_Pycaret.ipynb)
 
 #### e) Anomaly Detection using pyOD
 - **Description**: Demonstration of anomaly detection using pyOD on various use cases.
-- **Dataset**: [Placeholder for dataset link]
-- **Notebook**: [Placeholder for Colab notebook link]
+- **Dataset**: [Network Traffic Dataset](https://www.kaggle.com/datasets/ravikumargattu/network-traffic-dataset)
+- **Notebook**: [Link](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/main/CMPE255_Data_Mining/Assignment6/Anamoly_Detection_pyOD.ipynb)
 
 #### f) Clustering of Time Series Data Using Pretrained Models
 - **Description**: Time series data clustering using pretrained models.
-- **Dataset**: [Placeholder for dataset link]
-- **Notebook**: [Placeholder for Colab notebook link]
+- **Dataset**: [Cryptojacking Attack Timeseries Dataset] (https://www.kaggle.com/datasets/keshanijayasinghe/cryptojacking-attack-timeseries-dataset)
+- **Notebook**: [Link](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/main/CMPE255_Data_Mining/Assignment6/Time_Series_Data_Clustering_with_Pretrained_Models.ipynb)
 
 #### g) Clustering of Documents using State-of-the-Art Embeddings
 - **Description**: Document clustering using the latest LLM embeddings.
-- **Dataset**: [Placeholder for dataset link]
-- **Notebook**: [Placeholder for Colab notebook link]
+- **Dataset**: [Internet news data with readers engagement] (https://www.kaggle.com/datasets/szymonjanowski/internet-articles-data-with-users-engagement)
+- **Notebook**: [Link](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/main/CMPE255_Data_Mining/Assignment6/Document_Clustering.ipynb)
 
 #### h) Clustering with Images using ImageBind LLM Embeddings
 - **Description**: Image clustering using ImageBind LLM embeddings.
-- **Dataset**: [Placeholder for dataset link]
-- **Notebook**: [Placeholder for Colab notebook link]
+- **Dataset**: [Skin Cancer Dataset](https://www.kaggle.com/datasets/naim99/segmented-images-of-the-skin-cancer-dataset)
+- **Notebook**: [Link](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/main/CMPE255_Data_Mining/Assignment6/Image_Clustering_with_ImageBind.ipynb)
 
 #### i) Audio Embeddings using ImageBind LLMs
 - **Description**: Clustering of audio data using ImageBind LLM embeddings.
-- **Dataset**: [Placeholder for dataset link]
-- **Notebook**: [Placeholder for Colab notebook link]
+- **Dataset**: [Audio MNIST](https://www.kaggle.com/datasets/alanchn31/free-spoken-digits)
+- **Notebook**: [Link](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/main/CMPE255_Data_Mining/Assignment6/Audio_Embedding_Clustering_with_ImageBind_LLM.ipynb)
 
 ### Clustering Quality Measures
 
