@@ -19,7 +19,7 @@ The assignment is divided into several parts, each focusing on a different clust
 
 #### b) Hierarchical Clustering
 - **Description**: Application of hierarchical clustering.
-- **Dataset**: [Online Retail Dataset] (https://www.kaggle.com/datasets/hellbuoy/online-retail-customer-clustering)
+- **Dataset**: [Online Retail Dataset](https://www.kaggle.com/datasets/hellbuoy/online-retail-customer-clustering)
 - **Notebook**: [Link](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/main/CMPE255_Data_Mining/Assignment6/Hierarchical__Clustering.ipynb)
 
 #### c) Gaussian Mixture Models Clustering
@@ -29,7 +29,7 @@ The assignment is divided into several parts, each focusing on a different clust
 
 #### d) DB Scan Clustering Using PyCaret Library
 - **Description**: Clustering using DB Scan algorithm and PyCaret library.
-- **Dataset**: [Mall Customer Segmentation Data] (https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
+- **Dataset**: [Mall Customer Segmentation Data](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 - **Notebook**: [Link](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/main/CMPE255_Data_Mining/Assignment6/DB_Scan_Pycaret.ipynb)
 
 #### e) Anomaly Detection using pyOD
