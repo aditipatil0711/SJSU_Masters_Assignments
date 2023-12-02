@@ -14,18 +14,18 @@ The assignment is divided into several parts, each focusing on a different clust
 
 #### a) K-Means Clustering from Scratch
 - **Description**: Implementation of K-Means clustering algorithm from scratch.
-- **Dataset**: [Placeholder for dataset link]
-- **Notebook**: [Placeholder for Colab notebook link]
+- **Dataset**: [https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/main/CMPE255_Data_Mining/Assignment6/K_Means_Clustering.ipynb]
+- **Notebook**: (Link)[https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/main/CMPE255_Data_Mining/Assignment6/K_Means_Clustering.ipynb]
 
 #### b) Hierarchical Clustering
 - **Description**: Application of hierarchical clustering.
 - **Dataset**: [Placeholder for dataset link]
-- **Notebook**: [Placeholder for Colab notebook link]
+- **Notebook**: (Link)[https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/main/CMPE255_Data_Mining/Assignment6/Hierarchical__Clustering.ipynb]
 
 #### c) Gaussian Mixture Models Clustering
 - **Description**: Implementation of clustering using Gaussian mixture models.
 - **Dataset**: [Placeholder for dataset link]
-- **Notebook**: [Placeholder for Colab notebook link]
+- **Notebook**: [https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/main/CMPE255_Data_Mining/Assignment6/Gaussian_Mixture_Models.ipynb]
 
 #### d) DB Scan Clustering Using PyCaret Library
 - **Description**: Clustering using DB Scan algorithm and PyCaret library.
