@@ -57,5 +57,3 @@ The assignment is divided into several parts, each focusing on a different clust
 - **Dataset**: [Audio MNIST](https://www.kaggle.com/datasets/alanchn31/free-spoken-digits)
 - **Notebook**: [Link](https://github.com/aditipatil0711/SJSU_Masters_Assignments/blob/main/CMPE255_Data_Mining/Assignment6/Audio_Embedding_Clustering_with_ImageBind_LLM.ipynb)
 
-### Clustering Quality Measures
-
