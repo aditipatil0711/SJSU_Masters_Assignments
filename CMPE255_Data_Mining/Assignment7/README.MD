@@ -10,4 +10,4 @@ Turn the content of the paper/topic into a nice article (PLEASE REMEMBER - DO NO
 Solution: 
 * Link to  Article:  [Medium Article](https://addy07.medium.com/navigating-the-financial-world-with-ai-a-new-frontier-in-sentiment-analysis-757e34c29e8d)
 * Link to PPT: [ Slideshare PPT](https://www.slideshare.net/patiladiti752/enhancing-financial-sentiment-analysis-via-retrieval-augmented-large-language-modelspdf)
-* Link to Video: [Video](https://addy07.medium.com/navigating-the-financial-world-with-ai-a-new-frontier-in-sentiment-analysis-757e34c29e8d)
+* Link to Video: [Video](https://www.youtube.com/watch?v=mTQ9KeUiDi8)
